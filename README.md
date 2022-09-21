@@ -1,2 +1,1 @@
-# pensamentoconputacional
-vai se cagar
+# pensamentoconputacionalvdf
