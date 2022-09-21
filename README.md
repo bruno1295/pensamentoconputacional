@@ -1,0 +1,2 @@
+# pensamentoconputacional
+vai se cagar
